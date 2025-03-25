@@ -1,1 +1,1 @@
-A different version of the readme
+A combined version of the readme
